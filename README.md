@@ -1,6 +1,6 @@
 # Salute! 👋
 
-My name is Dylan Todd, I'm a 3rd year computer science student at Laurentian University
+My name is Dylan Todd, I'm a 4th year computer science student at Laurentian University
 
 🧠I'm an aspiring *Deep Learning Engineer*, and try to spend every day growing these skills. 🧠
 
