@@ -2,12 +2,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dylanjtodd&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-nu-silk-17.vercel.app/api?username=dylanjtodd&show_icons=true&theme=tokyonight&cache_seconds=1800" 
     alt="Rian's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanjtodd&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-nu-silk-17.vercel.app/api/top-langs/?username=dylanjtodd&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
